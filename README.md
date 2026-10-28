@@ -46,13 +46,13 @@ Presents five proposed interface designs:
 
 1.Request Submission
 
-  2. Request Submission Confirmation
+2. Request Submission Confirmation
 
-  3. Request Tracking
+3. Request Tracking
 
-  4. Support Knowledge
+4. Support Knowledge
 
-  5. Support Overview
+5. Support Overview
 
 
 13. Jira Agile Project:
