@@ -44,15 +44,15 @@ Maps the proposed user journey through the support process.
 12. Wireframes:
 Presents five proposed interface designs:
 
-1. Request Submission
+12.1. Request Submission
 
-2. Request Submission Confirmation
+12.2. Request Submission Confirmation
 
-3. Request Tracking
+12.3. Request Tracking
 
-4. Support Knowledge
+12.4. Support Knowledge
 
-5. Support Overview
+12.5. Support Overview
 
 
 13. Jira Agile Project:
