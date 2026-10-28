@@ -55,23 +55,21 @@ Presents five proposed interface designs:
 12.5. Support Overview
 
 
-13. Jira Agile Project:
+13. Jira Agile Project: Documents the Agile delivery approach and proposed implementation plan through:
 
-Documents the Agile delivery approach and proposed implementation plan through:
+13.1. Jira Epics and User Stories, including acceptance criteria and priorities
 
-1. Jira Epics and User Stories, including acceptance criteria and priorities
+13.2. Jira Sprint Execution Board
 
-2. Jira Sprint Execution Board
+13.3. Jira Sprint Plan
 
-3. Jira Sprint Plan
+13.4. Agile Strategy
 
-4. Agile Strategy
+13.5. Sprint Plan
 
-5. Sprint Plan
+13.6. Release Roadmap
 
-6. Release Roadmap
-
-7. Sprint Delivery Matrix
+13.7. Sprint Delivery Matrix
 
 14. Recommendations and Reflection:
 Summarises the proposed direction for improving support operations and reflects on how Business Analysis, BMC, and Agile planning support process redesign.
