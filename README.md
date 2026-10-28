@@ -43,9 +43,7 @@ Maps the proposed user journey through the support process.
 
 12. Wireframes:
 Presents five proposed interface designs:
-
-
-  1. Request Submission
+1.Request Submission
 
   2. Request Submission Confirmation
 
